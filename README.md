@@ -7,4 +7,5 @@ I'm a Cyber Threat Intelligence Analyst from France. 🇫🇷
 - 🔭 I'm passionate about many topics
   - 🔐 Security
   - 💻 Coding
+  - 🏋️‍♂️ Powerlifting
   - 📈 Finance
