@@ -9,9 +9,6 @@ I'm an R&D Engineer from France. 🇫🇷
 - 🌱 I like hacking things & coding
 - 📖 I enjoy continuous learning
 - ⌨️ Mechanical Keyboards enthusiast
-- 🏋️‍♂️ IPF Open Powerlifter
-- 📈 Stocks & Cryptocurrencies lover
-
 
 ![Stats](https://github-readme-stats-olacin.vercel.app/api/?username=olacin)  
 
