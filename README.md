@@ -4,7 +4,7 @@
 ![keyboard](https://img.shields.io/badge/keyboard-keychron%20Q8-yellow)
 ![switches](https://img.shields.io/badge/switches-gateron%20black%20inks%20v2-333)
 
-I'm an R&D Engineer from France. 🇫🇷
+I'm a Security Engineer from France. 🇫🇷
 
 - 🌱 I like hacking things & coding
 - 📖 I enjoy continuous learning
