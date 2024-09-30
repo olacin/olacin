@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ![editor](https://img.shields.io/badge/editor-neovim-blue)
-![keyboard](https://img.shields.io/badge/keyboard-keychron%20Q8-yellow)
-![switches](https://img.shields.io/badge/switches-gateron%20black%20inks%20v2-333)
+![keyboard](https://img.shields.io/badge/keyboard-piantor-8A2BE2)
+![switches](https://img.shields.io/badge/switches-choc%20red%20pro-red)
 
 I'm a Security Engineer from France. 🇫🇷
 
